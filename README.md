@@ -22,7 +22,7 @@
 
 <h3 align="left">Area of Interest:</h3>
 <p align="left">
-I am a Computer Science Engineer, I have completed all fundamental courses of Computer Science like, <strong>Data Structure, Algorithm, Opersting System, Microprocessor, Discrete Mathemetics, OOP, Computer Networking, Artificial Intelligence, Machine Learning and so on. Among them Machine Learning I like most. I have completed some AI project in Machine Learning field. Currently I am working with image processing and NLP. </strong> 
+I am a Computer Science Engineer, I have completed all fundamental courses of Computer Science like, <strong>Data Structure, Algorithm, Opersting System, Microprocessor, Discrete Mathemetics, OOP, Computer Networking, Artificial Intelligence, Machine Learning and so on.</strong> Among them Machine Learning I like most. I have completed some AI project in Machine Learning field. Currently I am working with image processing and NLP.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
