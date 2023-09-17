@@ -1,6 +1,6 @@
 [![MasterHead](https://appsmaventech.com/assets/images/blog/the-future-of-web-development.png)](https://rishavchanda.io)
 <h1 align="center">Hi I'm Tushar Ahmmed</h1>
-<h3 align="center">BSC in Computer Science (MERN Devedloper)</h3>
+<h3 align="center">BSC in Computer Science (MERN Developer)</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-ahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-ahmmed" /> </p>
