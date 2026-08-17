@@ -1,4 +1,4 @@
-[![MasterHead]([https://appsmaventech.com/assets/images/blog/the-future-of-web-development.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqNpE8UdVXu9c2_K7PuaNpD61pPoGUx7wvwNRicuKCQ&s=10))](https://neoscoder.com)
+[![MasterHead](https://mcusercontent.com/08ce4e85e393a3fdcfe6e482d/images/61b4c9b6-68db-522e-fc09-3ff8304994b6.jpg)](https://neoscoder.com)
 <h1 align="center">Hi I'm Tushar Ahmmed</h1>
 <h3 align="center">Devops Engineer</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
