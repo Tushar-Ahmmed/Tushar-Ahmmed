@@ -15,8 +15,11 @@ I'm a DevOps Engineer who builds and runs self-hosted infrastructure. I work acr
 
 - 🔄 **CI/CD pipelines** with GitLab, Jenkins and Harbor
 - 🐳 **Containers & orchestration** with Docker, Docker Swarm and Kubernetes
-- 🖥️ **Server configuration** and hardening on Ubuntu / Linux
-- 📊 **Monitoring & observability** with Prometheus, Grafana and cAdvisor
+- 🖥️ **Server configuration** on Ubuntu / Linux, with jump server (bastion) access
+- 🔐 **Secrets management** with HashiCorp Vault
+- 🌐 **Reverse proxy & routing** with Traefik and Nginx
+- 📊 **Monitoring & alerting** with Prometheus, Grafana, Alertmanager, Blackbox Exporter and cAdvisor
+- 🗄️ **Object storage** with RustFS
 - 💾 **Database operations & backups** for PostgreSQL and MySQL
 
 ---
@@ -35,9 +38,22 @@ I'm a DevOps Engineer who builds and runs self-hosted infrastructure. I work acr
 
 ![Linux](https://skillicons.dev/icons?i=linux,ubuntu,nginx,bash&theme=dark)
 
-**Monitoring**
+**Monitoring & Alerting**
 
 ![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana&theme=dark)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Blackbox](https://img.shields.io/badge/Blackbox_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![cAdvisor](https://img.shields.io/badge/cAdvisor-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Security & Secrets**
+
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Jump Server](https://img.shields.io/badge/Jump_Server-Bastion_Access-444?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Proxy & Storage**
+
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![RustFS](https://img.shields.io/badge/RustFS-Object_Storage-DEA584?style=for-the-badge&logo=rust&logoColor=black)
 
 **Databases**
 
